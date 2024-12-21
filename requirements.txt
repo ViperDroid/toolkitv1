@@ -1,0 +1,7 @@
+requests
+selenium
+beautifulsoup4
+scrapy
+pywifi
+psutil
+aiohttp
