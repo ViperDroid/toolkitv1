@@ -17,7 +17,7 @@ dont touch the code , if you wanna touching the code , after you having any erro
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ViperDroid/toolkitv1.gi
+   git clone https://github.com/ViperDroid/toolkitv1.git
    
    cd toolkitv1
     2. Create a virtual environment (optional but recommended):
